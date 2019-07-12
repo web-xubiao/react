@@ -1,0 +1,14 @@
+.title {
+    height: 80px;
+    line-height: 80px;
+    font-size: 50px;
+    text-align: center;
+    border-bottom: #000 1px solid;
+}
+
+.item {
+    height: 100px;
+    padding-left: 20px;
+    border-bottom: solid 1px #ccc;
+    line-height: 50px;
+}
